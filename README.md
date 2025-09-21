@@ -1,6 +1,9 @@
 # vs-products
-中国市场中产品和供应商的正面交锋对比。采购、技术选型和明智购买的必备工具
+对比中国市场中不同总类不同公司的产品。采购、技术选型和明智购买的必备工具。
+
 Head-to-head comparisons of products and vendors in Chinese market. Essential for procurement, tech selection, and smart buying.
 
 # Bicycle
-+ [21速/21Speed](./Bicycle/21_speed_bicycle.md)
++ **入门级/beginners**
+    + [21速/21Speed](./bicycle/beginners/21_speed_mountain_bike.md)
+    + [24速/24Speed](./bicycle/beginners/24_speed_mountain_bike.md)
